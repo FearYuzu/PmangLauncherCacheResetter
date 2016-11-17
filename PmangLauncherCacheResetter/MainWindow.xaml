@@ -1,0 +1,14 @@
+﻿<Window x:Class="PmangLauncherCacheResetter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pmang Launcher Cache Resetter" Height="350" Width="525" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="キャッシュ削除" HorizontalAlignment="Left" Height="45" Margin="158,233,0,0" VerticalAlignment="Top" Width="200" Click="Button_Click"/>
+        <Label Content="PLCR(Pmang Launcher Cache Resetter)" HorizontalAlignment="Left" Margin="58,10,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Sitka Heading"/>
+        <Label Content="ボタンをクリックしてキャッシュファイルを削除" HorizontalAlignment="Left" Margin="152,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="クライアント位置 BlackDesert__live" HorizontalAlignment="Left" Margin="58,150,0,0" VerticalAlignment="Top" x:Name="ClientPath"/>
+        <Button Content="閉じる" HorizontalAlignment="Left" Height="33" Margin="404,278,0,0" VerticalAlignment="Top" Width="105" Click="Button_Click_1"/>
+
+    </Grid>
+    
+</Window>

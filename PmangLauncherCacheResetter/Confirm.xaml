@@ -1,0 +1,15 @@
+﻿<Window x:Class="PmangLauncherCacheResetter.Confirm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Confirm" Height="300" Width="531.05" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="100" Margin="24,62,0,0" VerticalAlignment="Top" Width="497" x:Name="CacheList"/>
+        <Label Content="以下のキャッシュが存在します。" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top"/>
+        <Label Content="良ければキャッシュ削除を開始" HorizontalAlignment="Left" Margin="329,182,0,0" VerticalAlignment="Top"/>
+        <Button Content="全て削除" HorizontalAlignment="Left" Margin="383,213,0,0" VerticalAlignment="Top" Width="138" Height="36" x:Name="StartCacheDelete" Click="StartCacheDelete_Click"/>
+        <Button Content="選択したキャッシュを削除" HorizontalAlignment="Left" Margin="213,213,0,0" VerticalAlignment="Top" Width="154" Height="36" x:Name="DeleteSetectedCache" Click="DeleteSetectedCache_Click"/>
+        <Button Content="リスト更新" HorizontalAlignment="Left" Margin="89,213,0,0" VerticalAlignment="Top" Width="109" Height="36" x:Name="ListUpdate" Click="ListUpdate_Click"/>
+        <Button Content="閉じる" HorizontalAlignment="Left" Height="28" Margin="380,262,0,0" VerticalAlignment="Top" Width="141" Click="Button_Click"/>
+
+    </Grid>
+</Window>

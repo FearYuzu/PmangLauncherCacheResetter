@@ -1,0 +1,15 @@
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\bin\Debug\PmangLauncherCacheResetter.exe.config
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\bin\Debug\PmangLauncherCacheResetter.exe
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\bin\Debug\PmangLauncherCacheResetter.pdb
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.csprojResolveAssemblyReference.cache
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\MainWindow.baml
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\MainWindow.g.cs
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\App.g.cs
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter_MarkupCompile.cache
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.g.resources
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.Properties.Resources.resources
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.csproj.GenerateResource.Cache
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.exe
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\PmangLauncherCacheResetter.pdb
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\Confirm.baml
+c:\users\s.yamada\documents\visual studio 2013\Projects\PmangLauncherCacheResetter\PmangLauncherCacheResetter\obj\Debug\Confirm.g.cs
