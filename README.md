@@ -4,6 +4,7 @@ PLCR(PmangLauncherCacheResetter) is a helper of Pmang Launcher that need to runn
 問題の原因となるキャッシュファイルを削除して問題の解決を目指します。<br>
 ※このツールを使用することで問題を解決することを保証することはできません。ご了承ください
 <br>
+DL:http://files.indigoflare.net/download/bdo/PLCR_v1.zip<br>
 <br>
 必要：.NET Framework 4.5
 <br>
